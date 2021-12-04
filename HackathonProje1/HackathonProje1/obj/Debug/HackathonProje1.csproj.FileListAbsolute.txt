@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\bin\Debug\HackathonProje1.exe.config
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\bin\Debug\HackathonProje1.exe
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\bin\Debug\HackathonProje1.pdb
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.csproj.AssemblyReference.cache
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.Form1.resources
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.Properties.Resources.resources
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.csproj.GenerateResource.cache
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.csproj.CoreCompileInputs.cache
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.exe
+C:\Users\Black\Documents\GitHub\HackathonProje\HackathonProje1\HackathonProje1\obj\Debug\HackathonProje1.pdb
